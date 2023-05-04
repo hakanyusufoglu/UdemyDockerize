@@ -1,0 +1,5 @@
+#taþýnmayacak olan klasörleri belirtiyoruz. **tüm klasörleri tara eðer bin varsa onu kopyalama
+**/bin/
+**/obj/
+**/Dockerfile* #Dockerfile dosyalarýný ve dockerfile uzantýsýtyla birlikte ne gelirse gelsin taþýma. örneðin dockerfile2'yi' taþýma
+**/.dockerignore*
